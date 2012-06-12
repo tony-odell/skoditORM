@@ -1,0 +1,16 @@
+{
+  "author": "Tony <tonyo@skod.it> (skod.it)",
+  "name": "skoditORM",
+  "description": "ORM for MongoDB, developed for DW in the future",
+  "version": "0.0.0",
+  "homepage": "skod.it",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tony-odell/skoditORM.git"
+  },
+  "engines": {
+    "node": "~0.6.5"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
